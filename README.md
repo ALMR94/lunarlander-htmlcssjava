@@ -29,7 +29,7 @@ En la parte de los marcadores, el fuel va bajando según si damos a enter o en p
 
 En la parte de la nave, la imagen de la nave va cambiando según si le damos a activar el motor o no. Cuando aterriza a más velocidad de la que toca, también se cambia la imagen por el de una explosión. Además, sale el resultado final del juego en forma de alerta, tanto si hemos perdido como si no.
 
-En la parte de la derecha tenemos el menú con distintas opciones, como pausar el juego, reiniciar, ver las instrucciones o ver datos del juego, los dos últimos con enlaces a ellos.
+En la parte de la derecha tenemos el menú con distintas opciones, como pausar el juego, reiniciar, ver las instrucciones o ver datos del juego, los dos últimos con enlaces a otra página.
 
 ## Versión minimificada
 Este es el enlace a la versión minimificada del proyecto:
