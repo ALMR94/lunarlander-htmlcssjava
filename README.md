@@ -32,4 +32,4 @@ En la parte de la nave, la imagen de la nave va cambiando según si le damos a a
 En la parte de la derecha tenemos el menú con distintas opciones, como pausar el juego, reiniciar, ver las instrucciones o ver datos del juego, los dos últimos con enlaces a otra página.
 
 ## Versión minimificada
-Este es el enlace a la versión minimificada del proyecto:
+Este es el enlace a la versión minimificada del proyecto: https://github.com/ALMR94/lunarlander-htmlcssjava/tree/minified
